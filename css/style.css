@@ -29,13 +29,13 @@ nav a {
 h1 {
 	text-align: center;
 	font-family: 'Dancing Script';
-	color: black;
+	color: #333;
 	
 }
 
 h2 {
 	text-align: center;
-	color: black;
+	color: #333;
 }
 
 body {
@@ -48,7 +48,7 @@ body {
 
 header {
 	background-color: #0077cc;
-	color: #fff;
+	color: #333;
 	padding: 20px;
 	text-align: center;
 }
@@ -61,6 +61,12 @@ header {
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+footer {
+	background-color: #35dccc;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
 /* Game page styles */
 #Omori {
 	width: 200px;
