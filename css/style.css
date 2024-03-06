@@ -64,7 +64,6 @@ header {
 footer {
 	background-color: #35dccc;
 	color: #fff;
-	padding: 10px;
 	text-align: center;
 }
 /* Game page styles */
@@ -86,9 +85,19 @@ footer {
 #Real {
 	width: 200px;
 	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #Drawing {
-	width: 200px;
-	height: auto:
+	width: 150px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* resume page styles */
+#resumse h2 {
+	text-align: left;
 }
