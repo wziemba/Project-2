@@ -1,0 +1,60 @@
+nav {
+  text-align: center;
+  background-color: #35dccc;
+  overflow: hidden;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav a {
+  padding: 14px 16px;
+  font-size: 17px;
+  text-decoration: none; 
+  color: white;
+  
+}
+
+nav a.active {
+  background-color: aliceblue;
+}
+
+h1 {
+	text-align: center;
+	
+}
+
+h2 {
+	text-align: center;
+}
+
+body {
+	font-family: 'Arial', sans-serif;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#Omori {
+	width: 200px;
+	height: auto;
+}
+
+#Galaxy {
+	width: 200px;
+	height: auto;
+}
+
+#Escape {
+	width: 200px;
+	height: auto;
+}
