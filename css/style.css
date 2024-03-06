@@ -47,7 +47,7 @@ body {
 }
 
 header {
-	background-color: #0077cc;
+	background-color: #35dccc;
 	color: #333;
 	padding: 20px;
 	text-align: center;
@@ -112,8 +112,8 @@ footer {
 }
 
 #Resume ul{
-	list-style: none;
-	marggin-left: 15px;
+	list-style: square;
+	margin-left: 15px;
 }
 
 #Resume li{
