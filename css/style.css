@@ -1,3 +1,7 @@
+/*All site styles */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script');
+
+
 nav {
   text-align: center;
   background-color: #35dccc;
@@ -28,22 +32,23 @@ nav a.active {
 
 h1 {
 	text-align: center;
+	font-family: 'Dancing Script';
+	color: white;
 	
 }
 
 h2 {
 	text-align: center;
+	color: white;
 }
 
 body {
 	font-family: 'Arial', sans-serif;
 	text-align: center;
+	background-color: #357ddc;
 }
 
-p {
-	text-align: center;
-}
-
+/* Game page styles */
 #Omori {
 	width: 200px;
 	height: auto;
@@ -57,4 +62,14 @@ p {
 #Escape {
 	width: 200px;
 	height: auto;
+}
+/* index page styles */
+#Real {
+	width: 200px;
+	height: auto;
+}
+
+#Drawing {
+	width: 200px;
+	height: auto:
 }
