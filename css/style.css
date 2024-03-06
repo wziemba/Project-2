@@ -91,15 +91,25 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+#Music {
+	margin-left: auto;
+	margin-right: auto;
+}
 /* index page styles */
 #Real {
 	width: 200px;
 	height: auto;
+	margin-left: auto;
+	margin-right:auto;
 }
 
 #Drawing {
 	width: 200px;
-	height: auto:
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
 }
 
 /* resume page styles */
@@ -113,7 +123,7 @@ footer {
 
 #Resume ul{
 	list-style: square;
-	margin-left: 15px;
+	margin-left: 20px;
 }
 
 #Resume li{
