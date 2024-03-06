@@ -41,7 +41,7 @@ h2 {
 body {
 	font-family: 'Arial', sans-serif;
 	line-height: 1.6;
-	background-color: #f4f4f4;
+	background-color: #dcf9f6;
 	color: #333;
 	margin: 0;
 }
@@ -92,19 +92,30 @@ footer {
 	margin-right: auto;
 }
 /* index page styles */
-.column{
-	float: left;
-	width: 50%;
-	padding: 5px;
+#Real {
+	width: 200px;
+	height: auto;
 }
 
-.row::after{
-	content: "";
-	clear: both;
-	display: table;
+#Drawing {
+	width: 200px;
+	height: auto:
 }
 
 /* resume page styles */
 #Resume h2{
 	text-align: left;
+}
+
+#Resume ol{
+	list-style: none;
+}
+
+#Resume ul{
+	list-style: none;
+	marggin-left: 15px;
+}
+
+#Resume li{
+	margin-bottom: 5px;
 }
