@@ -89,19 +89,19 @@ footer {
 }	
 /* index page styles */
 #Real {
-	max-width: 200px;
-	width: 50%;
+	width: 200px;
+	height: auto;
 	float:left;
 }
 #Drawing {
-	max-width: 200px;
-	width: 50%;
+	width: 200px;
+	height: auto;
 	float: right;
 }
 
 #Album {
-	max-width: 200px;
-	width: 50%;
+	width: 200px;
+	height: auto;
 	float: right;
 }
 /* resume page styles */
