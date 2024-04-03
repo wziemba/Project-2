@@ -90,15 +90,11 @@ footer {
 
 /* index page styles */
 #homepage img {
-	max-width: 300px;
+	max-width: 200px;
 	width: 50%;
 }
 
-#Real {
-	text-align: center;
-}
-
-#Drawing {
+#homepage-drawing {
 	text-align: center;
 }
 
