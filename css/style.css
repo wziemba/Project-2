@@ -67,25 +67,9 @@ footer {
 	padding: 20px;
 }
 /* Game page styles */
-#Omori {
-	width: 200px;
-	height: auto;
-	display: block;
-	float: right;
-}
-
-#Galaxy {
-	width: 200px;
-	height: auto;
-	display: block;
-	float: left;
-}
-
-#Escape {
-	width: 200px;
-	height: auto;
-	display: block;
-	float: right;
+#gamepage img{
+	max-width: 35%;
+	text-align: center;
 }
 
 /* index page styles */
