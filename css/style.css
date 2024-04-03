@@ -61,6 +61,7 @@ header {
 }
 
 footer {
+	position: fixed;
 	background-color: #35dccc;
 	color: #fff;
 	text-align: center;
@@ -96,6 +97,9 @@ footer {
 	text-align: center;
 }
 
+#Album {
+	float: right;
+}
 /* resume page styles */
 #Resume h2{
 	text-align: left;
