@@ -61,6 +61,7 @@ header {
 }
 
 footer {
+	position: static;
 	background-color: #35dccc;
 	color: #fff;
 	text-align: center;
@@ -88,13 +89,19 @@ footer {
 }	
 /* index page styles */
 #Real {
+	max-width: 200px;
+	width: 50%;
 	float:left;
 }
 #Drawing {
+	max-width: 200px;
+	width: 50%;
 	float: right;
 }
 
 #Album {
+	max-width: 200px;
+	width: 50%;
 	float: right;
 }
 /* resume page styles */
