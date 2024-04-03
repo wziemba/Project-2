@@ -116,6 +116,15 @@ footer {
 #draw p{
 	padding-bottom: 4em;
 }
+
+#homepage h2 {
+	margin-bottom: 0;
+}
+
+.sports {
+	padding-bottom: 3em;
+}
+
 /* resume page styles */
 #Resume h2{
 	text-align: left;
