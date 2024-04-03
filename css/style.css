@@ -67,11 +67,25 @@ footer {
 	padding: 20px;
 }
 /* Game page styles */
-#gamepage img{
-	max-width: 35%;
+#gamepage img {
+	width: 25%;
+}
+
+#gamepage-1 {
 	text-align: center;
 }
 
+#gamepage-2 {
+	text-align: center;
+}
+
+#gamepage-3{
+	text-align: center;
+}
+
+.ems {
+	font-size: 1.1em;
+}	
 /* index page styles */
 #homepage img {
 	max-width: 200px;
