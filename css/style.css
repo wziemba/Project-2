@@ -61,7 +61,6 @@ header {
 }
 
 footer {
-	position: relative;
 	background-color: #35dccc;
 	color: #fff;
 	text-align: center;
@@ -88,13 +87,11 @@ footer {
 	font-size: 1.1em;
 }	
 /* index page styles */
-#homepage img {
-	max-width: 200px;
-	width: 50%;
+#Real {
+	float:left;
 }
-
-#homepage-drawing {
-	text-align: center;
+#Drawing {
+	float: right;
 }
 
 #Album {
