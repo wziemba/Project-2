@@ -106,7 +106,9 @@ footer {
 	height: auto;
 }
 
-#homepage h2 {
+.drawingheader {
+	height: 120px;
+	vertical-align: middle;
 	text-align: center;
 }
 
