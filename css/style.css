@@ -114,7 +114,7 @@ footer {
 }
 
 #draw p{
-	padding: 0 0 4em 0;
+	padding-bottom: 4em;
 }
 /* resume page styles */
 #Resume h2{
