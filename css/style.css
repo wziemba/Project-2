@@ -91,6 +91,7 @@ footer {
 #Real {
 	float:left;
 	width: 25%;
+	height: 150px;
 }
 #Drawing {
 	float: right;
@@ -125,6 +126,13 @@ footer {
 	padding-bottom: 3em;
 }
 
+.taste {
+	padding-bottom: 3em;
+}
+
+.me {
+	padding-bottom: 3em;
+}
 /* resume page styles */
 #Resume h2{
 	text-align: left;
