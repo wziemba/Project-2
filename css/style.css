@@ -38,7 +38,7 @@ h2 {
 }
 
 body {
-	font-family: 'Arial', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	line-height: 1.6;
 	background-color: #dcf9f6;
 	color: #333;
@@ -71,30 +71,34 @@ footer {
 	width: 200px;
 	height: auto;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	float: right;
 }
 
 #Galaxy {
 	width: 200px;
 	height: auto;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	float: left;
 }
 
 #Escape {
 	width: 200px;
 	height: auto;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	float: right;
 }
 
 /* index page styles */
-.link {
+#homepage img {
+	max-width: 300px;
 	width: 50%;
-	float: left;
+}
+
+#Real {
+	text-align: center;
+}
+
+#Drawing {
 	text-align: center;
 }
 
