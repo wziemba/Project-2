@@ -89,21 +89,21 @@ footer {
 }	
 /* index page styles */
 #Real {
-	width: 200px;
-	height: auto;
 	float:left;
 }
 #Drawing {
-	width: 200px;
-	height: auto;
 	float: right;
 }
 
 #Album {
-	width: 200px;
-	height: auto;
 	float: right;
 }
+
+#homepage img {
+	width: 200px;
+	height: auto;
+}
+
 /* resume page styles */
 #Resume h2{
 	text-align: left;
