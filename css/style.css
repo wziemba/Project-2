@@ -61,7 +61,7 @@ header {
 }
 
 footer {
-	position: fixed;
+	position: relative;
 	background-color: #35dccc;
 	color: #fff;
 	text-align: center;
