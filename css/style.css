@@ -90,9 +90,11 @@ footer {
 /* index page styles */
 #Real {
 	float:left;
+	width: 25%;
 }
 #Drawing {
 	float: right;
+	width: 25%;
 }
 
 #Album {
@@ -104,6 +106,12 @@ footer {
 #homepage img {
 	width: 200px;
 	height: auto;
+}
+
+.musicheader {
+	height:120px;
+	vertical-align:middle;
+	text-align: center;
 }
 
 .drawingheader {
